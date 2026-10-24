@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "KeyboardCustom") (type "KiCad") (uri "${KIPRJMOD}/KeyboardCustom.pretty") (options "") (descr "Keyboard footprints with silkscreen removed"))
+)

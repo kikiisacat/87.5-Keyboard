@@ -1,0 +1,1393 @@
+{
+  "gray_1u_count": 58,
+  "red_wide_count": 6,
+  "dial_count": 1,
+  "caps": {
+    "gray_1u": [
+      {
+        "reference": "SW2",
+        "filename": "DSA-1u-SW2.step",
+        "body_rgb": [
+          0.42,
+          0.44,
+          0.47
+        ],
+        "legend_rgb": [
+          0.96,
+          0.96,
+          0.96
+        ],
+        "cad_geometry_unchanged": true
+      },
+      {
+        "reference": "SW3",
+        "filename": "DSA-1u-SW3.step",
+        "body_rgb": [
+          0.42,
+          0.44,
+          0.47
+        ],
+        "legend_rgb": [
+          0.96,
+          0.96,
+          0.96
+        ],
+        "cad_geometry_unchanged": true
+      },
+      {
+        "reference": "SW4",
+        "filename": "DSA-1u-SW4.step",
+        "body_rgb": [
+          0.42,
+          0.44,
+          0.47
+        ],
+        "legend_rgb": [
+          0.96,
+          0.96,
+          0.96
+        ],
+        "cad_geometry_unchanged": true
+      },
+      {
+        "reference": "SW5",
+        "filename": "DSA-1u-SW5.step",
+        "body_rgb": [
+          0.42,
+          0.44,
+          0.47
+        ],
+        "legend_rgb": [
+          0.96,
+          0.96,
+          0.96
+        ],
+        "cad_geometry_unchanged": true
+      },
+      {
+        "reference": "SW6",
+        "filename": "DSA-1u-SW6.step",
+        "body_rgb": [
+          0.42,
+          0.44,
+          0.47
+        ],
+        "legend_rgb": [
+          0.96,
+          0.96,
+          0.96
+        ],
+        "cad_geometry_unchanged": true
+      },
+      {
+        "reference": "SW7",
+        "filename": "DSA-1u-SW7.step",
+        "body_rgb": [
+          0.42,
+          0.44,
+          0.47
+        ],
+        "legend_rgb": [
+          0.96,
+          0.96,
+          0.96
+        ],
+        "cad_geometry_unchanged": true
+      },
+      {
+        "reference": "SW8",
+        "filename": "DSA-1u-SW8.step",
+        "body_rgb": [
+          0.42,
+          0.44,
+          0.47
+        ],
+        "legend_rgb": [
+          0.96,
+          0.96,
+          0.96
+        ],
+        "cad_geometry_unchanged": true
+      },
+      {
+        "reference": "SW9",
+        "filename": "DSA-1u-SW9.step",
+        "body_rgb": [
+          0.42,
+          0.44,
+          0.47
+        ],
+        "legend_rgb": [
+          0.96,
+          0.96,
+          0.96
+        ],
+        "cad_geometry_unchanged": true
+      },
+      {
+        "reference": "SW10",
+        "filename": "DSA-1u-SW10.step",
+        "body_rgb": [
+          0.42,
+          0.44,
+          0.47
+        ],
+        "legend_rgb": [
+          0.96,
+          0.96,
+          0.96
+        ],
+        "cad_geometry_unchanged": true
+      },
+      {
+        "reference": "SW11",
+        "filename": "DSA-1u-SW11.step",
+        "body_rgb": [
+          0.42,
+          0.44,
+          0.47
+        ],
+        "legend_rgb": [
+          0.96,
+          0.96,
+          0.96
+        ],
+        "cad_geometry_unchanged": true
+      },
+      {
+        "reference": "SW12",
+        "filename": "DSA-1u-SW12.step",
+        "body_rgb": [
+          0.42,
+          0.44,
+          0.47
+        ],
+        "legend_rgb": [
+          0.96,
+          0.96,
+          0.96
+        ],
+        "cad_geometry_unchanged": true
+      },
+      {
+        "reference": "SW13",
+        "filename": "DSA-1u-SW13.step",
+        "body_rgb": [
+          0.42,
+          0.44,
+          0.47
+        ],
+        "legend_rgb": [
+          0.96,
+          0.96,
+          0.96
+        ],
+        "cad_geometry_unchanged": true
+      },
+      {
+        "reference": "SW15",
+        "filename": "DSA-1u-SW15.step",
+        "body_rgb": [
+          0.42,
+          0.44,
+          0.47
+        ],
+        "legend_rgb": [
+          0.96,
+          0.96,
+          0.96
+        ],
+        "cad_geometry_unchanged": true
+      },
+      {
+        "reference": "SW16",
+        "filename": "DSA-1u-SW16.step",
+        "body_rgb": [
+          0.42,
+          0.44,
+          0.47
+        ],
+        "legend_rgb": [
+          0.96,
+          0.96,
+          0.96
+        ],
+        "cad_geometry_unchanged": true
+      },
+      {
+        "reference": "SW17",
+        "filename": "DSA-1u-SW17.step",
+        "body_rgb": [
+          0.42,
+          0.44,
+          0.47
+        ],
+        "legend_rgb": [
+          0.96,
+          0.96,
+          0.96
+        ],
+        "cad_geometry_unchanged": true
+      },
+      {
+        "reference": "SW19",
+        "filename": "DSA-1u-SW19.step",
+        "body_rgb": [
+          0.42,
+          0.44,
+          0.47
+        ],
+        "legend_rgb": [
+          0.96,
+          0.96,
+          0.96
+        ],
+        "cad_geometry_unchanged": true
+      },
+      {
+        "reference": "SW20",
+        "filename": "DSA-1u-SW20.step",
+        "body_rgb": [
+          0.42,
+          0.44,
+          0.47
+        ],
+        "legend_rgb": [
+          0.96,
+          0.96,
+          0.96
+        ],
+        "cad_geometry_unchanged": true
+      },
+      {
+        "reference": "SW21",
+        "filename": "DSA-1u-SW21.step",
+        "body_rgb": [
+          0.42,
+          0.44,
+          0.47
+        ],
+        "legend_rgb": [
+          0.96,
+          0.96,
+          0.96
+        ],
+        "cad_geometry_unchanged": true
+      },
+      {
+        "reference": "SW22",
+        "filename": "DSA-1u-SW22.step",
+        "body_rgb": [
+          0.42,
+          0.44,
+          0.47
+        ],
+        "legend_rgb": [
+          0.96,
+          0.96,
+          0.96
+        ],
+        "cad_geometry_unchanged": true
+      },
+      {
+        "reference": "SW23",
+        "filename": "DSA-1u-SW23.step",
+        "body_rgb": [
+          0.42,
+          0.44,
+          0.47
+        ],
+        "legend_rgb": [
+          0.96,
+          0.96,
+          0.96
+        ],
+        "cad_geometry_unchanged": true
+      },
+      {
+        "reference": "SW24",
+        "filename": "DSA-1u-SW24.step",
+        "body_rgb": [
+          0.42,
+          0.44,
+          0.47
+        ],
+        "legend_rgb": [
+          0.96,
+          0.96,
+          0.96
+        ],
+        "cad_geometry_unchanged": true
+      },
+      {
+        "reference": "SW25",
+        "filename": "DSA-1u-SW25.step",
+        "body_rgb": [
+          0.42,
+          0.44,
+          0.47
+        ],
+        "legend_rgb": [
+          0.96,
+          0.96,
+          0.96
+        ],
+        "cad_geometry_unchanged": true
+      },
+      {
+        "reference": "SW26",
+        "filename": "DSA-1u-SW26.step",
+        "body_rgb": [
+          0.42,
+          0.44,
+          0.47
+        ],
+        "legend_rgb": [
+          0.96,
+          0.96,
+          0.96
+        ],
+        "cad_geometry_unchanged": true
+      },
+      {
+        "reference": "SW27",
+        "filename": "DSA-1u-SW27.step",
+        "body_rgb": [
+          0.42,
+          0.44,
+          0.47
+        ],
+        "legend_rgb": [
+          0.96,
+          0.96,
+          0.96
+        ],
+        "cad_geometry_unchanged": true
+      },
+      {
+        "reference": "SW28",
+        "filename": "DSA-1u-SW28.step",
+        "body_rgb": [
+          0.42,
+          0.44,
+          0.47
+        ],
+        "legend_rgb": [
+          0.96,
+          0.96,
+          0.96
+        ],
+        "cad_geometry_unchanged": true
+      },
+      {
+        "reference": "SW29",
+        "filename": "DSA-1u-SW29.step",
+        "body_rgb": [
+          0.42,
+          0.44,
+          0.47
+        ],
+        "legend_rgb": [
+          0.96,
+          0.96,
+          0.96
+        ],
+        "cad_geometry_unchanged": true
+      },
+      {
+        "reference": "SW30",
+        "filename": "DSA-1u-SW30.step",
+        "body_rgb": [
+          0.42,
+          0.44,
+          0.47
+        ],
+        "legend_rgb": [
+          0.96,
+          0.96,
+          0.96
+        ],
+        "cad_geometry_unchanged": true
+      },
+      {
+        "reference": "SW31",
+        "filename": "DSA-1u-SW31.step",
+        "body_rgb": [
+          0.42,
+          0.44,
+          0.47
+        ],
+        "legend_rgb": [
+          0.96,
+          0.96,
+          0.96
+        ],
+        "cad_geometry_unchanged": true
+      },
+      {
+        "reference": "SW32",
+        "filename": "DSA-1u-SW32.step",
+        "body_rgb": [
+          0.42,
+          0.44,
+          0.47
+        ],
+        "legend_rgb": [
+          0.96,
+          0.96,
+          0.96
+        ],
+        "cad_geometry_unchanged": true
+      },
+      {
+        "reference": "SW33",
+        "filename": "DSA-1u-SW33.step",
+        "body_rgb": [
+          0.42,
+          0.44,
+          0.47
+        ],
+        "legend_rgb": [
+          0.96,
+          0.96,
+          0.96
+        ],
+        "cad_geometry_unchanged": true
+      },
+      {
+        "reference": "SW34",
+        "filename": "DSA-1u-SW34.step",
+        "body_rgb": [
+          0.42,
+          0.44,
+          0.47
+        ],
+        "legend_rgb": [
+          0.96,
+          0.96,
+          0.96
+        ],
+        "cad_geometry_unchanged": true
+      },
+      {
+        "reference": "SW36",
+        "filename": "DSA-1u-SW36.step",
+        "body_rgb": [
+          0.42,
+          0.44,
+          0.47
+        ],
+        "legend_rgb": [
+          0.96,
+          0.96,
+          0.96
+        ],
+        "cad_geometry_unchanged": true
+      },
+      {
+        "reference": "SW37",
+        "filename": "DSA-1u-SW37.step",
+        "body_rgb": [
+          0.42,
+          0.44,
+          0.47
+        ],
+        "legend_rgb": [
+          0.96,
+          0.96,
+          0.96
+        ],
+        "cad_geometry_unchanged": true
+      },
+      {
+        "reference": "SW38",
+        "filename": "DSA-1u-SW38.step",
+        "body_rgb": [
+          0.42,
+          0.44,
+          0.47
+        ],
+        "legend_rgb": [
+          0.96,
+          0.96,
+          0.96
+        ],
+        "cad_geometry_unchanged": true
+      },
+      {
+        "reference": "SW39",
+        "filename": "DSA-1u-SW39.step",
+        "body_rgb": [
+          0.42,
+          0.44,
+          0.47
+        ],
+        "legend_rgb": [
+          0.96,
+          0.96,
+          0.96
+        ],
+        "cad_geometry_unchanged": true
+      },
+      {
+        "reference": "SW40",
+        "filename": "DSA-1u-SW40.step",
+        "body_rgb": [
+          0.42,
+          0.44,
+          0.47
+        ],
+        "legend_rgb": [
+          0.96,
+          0.96,
+          0.96
+        ],
+        "cad_geometry_unchanged": true
+      },
+      {
+        "reference": "SW41",
+        "filename": "DSA-1u-SW41.step",
+        "body_rgb": [
+          0.42,
+          0.44,
+          0.47
+        ],
+        "legend_rgb": [
+          0.96,
+          0.96,
+          0.96
+        ],
+        "cad_geometry_unchanged": true
+      },
+      {
+        "reference": "SW42",
+        "filename": "DSA-1u-SW42.step",
+        "body_rgb": [
+          0.42,
+          0.44,
+          0.47
+        ],
+        "legend_rgb": [
+          0.96,
+          0.96,
+          0.96
+        ],
+        "cad_geometry_unchanged": true
+      },
+      {
+        "reference": "SW43",
+        "filename": "DSA-1u-SW43.step",
+        "body_rgb": [
+          0.42,
+          0.44,
+          0.47
+        ],
+        "legend_rgb": [
+          0.96,
+          0.96,
+          0.96
+        ],
+        "cad_geometry_unchanged": true
+      },
+      {
+        "reference": "SW44",
+        "filename": "DSA-1u-SW44.step",
+        "body_rgb": [
+          0.42,
+          0.44,
+          0.47
+        ],
+        "legend_rgb": [
+          0.96,
+          0.96,
+          0.96
+        ],
+        "cad_geometry_unchanged": true
+      },
+      {
+        "reference": "SW45",
+        "filename": "DSA-1u-SW45.step",
+        "body_rgb": [
+          0.42,
+          0.44,
+          0.47
+        ],
+        "legend_rgb": [
+          0.96,
+          0.96,
+          0.96
+        ],
+        "cad_geometry_unchanged": true
+      },
+      {
+        "reference": "SW46",
+        "filename": "DSA-1u-SW46.step",
+        "body_rgb": [
+          0.42,
+          0.44,
+          0.47
+        ],
+        "legend_rgb": [
+          0.96,
+          0.96,
+          0.96
+        ],
+        "cad_geometry_unchanged": true
+      },
+      {
+        "reference": "SW48",
+        "filename": "DSA-1u-SW48.step",
+        "body_rgb": [
+          0.42,
+          0.44,
+          0.47
+        ],
+        "legend_rgb": [
+          0.96,
+          0.96,
+          0.96
+        ],
+        "cad_geometry_unchanged": true
+      },
+      {
+        "reference": "SW49",
+        "filename": "DSA-1u-SW49.step",
+        "body_rgb": [
+          0.42,
+          0.44,
+          0.47
+        ],
+        "legend_rgb": [
+          0.96,
+          0.96,
+          0.96
+        ],
+        "cad_geometry_unchanged": true
+      },
+      {
+        "reference": "SW50",
+        "filename": "DSA-1u-SW50.step",
+        "body_rgb": [
+          0.42,
+          0.44,
+          0.47
+        ],
+        "legend_rgb": [
+          0.96,
+          0.96,
+          0.96
+        ],
+        "cad_geometry_unchanged": true
+      },
+      {
+        "reference": "SW52",
+        "filename": "DSA-1u-SW52.step",
+        "body_rgb": [
+          0.42,
+          0.44,
+          0.47
+        ],
+        "legend_rgb": [
+          0.96,
+          0.96,
+          0.96
+        ],
+        "cad_geometry_unchanged": true
+      },
+      {
+        "reference": "SW53",
+        "filename": "DSA-1u-SW53.step",
+        "body_rgb": [
+          0.42,
+          0.44,
+          0.47
+        ],
+        "legend_rgb": [
+          0.96,
+          0.96,
+          0.96
+        ],
+        "cad_geometry_unchanged": true
+      },
+      {
+        "reference": "SW54",
+        "filename": "DSA-1u-SW54.step",
+        "body_rgb": [
+          0.42,
+          0.44,
+          0.47
+        ],
+        "legend_rgb": [
+          0.96,
+          0.96,
+          0.96
+        ],
+        "cad_geometry_unchanged": true
+      },
+      {
+        "reference": "SW55",
+        "filename": "DSA-1u-SW55.step",
+        "body_rgb": [
+          0.42,
+          0.44,
+          0.47
+        ],
+        "legend_rgb": [
+          0.96,
+          0.96,
+          0.96
+        ],
+        "cad_geometry_unchanged": true
+      },
+      {
+        "reference": "SW56",
+        "filename": "DSA-1u-SW56.step",
+        "body_rgb": [
+          0.42,
+          0.44,
+          0.47
+        ],
+        "legend_rgb": [
+          0.96,
+          0.96,
+          0.96
+        ],
+        "cad_geometry_unchanged": true
+      },
+      {
+        "reference": "SW57",
+        "filename": "DSA-1u-SW57.step",
+        "body_rgb": [
+          0.42,
+          0.44,
+          0.47
+        ],
+        "legend_rgb": [
+          0.96,
+          0.96,
+          0.96
+        ],
+        "cad_geometry_unchanged": true
+      },
+      {
+        "reference": "SW58",
+        "filename": "DSA-1u-SW58.step",
+        "body_rgb": [
+          0.42,
+          0.44,
+          0.47
+        ],
+        "legend_rgb": [
+          0.96,
+          0.96,
+          0.96
+        ],
+        "cad_geometry_unchanged": true
+      },
+      {
+        "reference": "SW59",
+        "filename": "DSA-1u-SW59.step",
+        "body_rgb": [
+          0.42,
+          0.44,
+          0.47
+        ],
+        "legend_rgb": [
+          0.96,
+          0.96,
+          0.96
+        ],
+        "cad_geometry_unchanged": true
+      },
+      {
+        "reference": "SW60",
+        "filename": "DSA-1u-SW60.step",
+        "body_rgb": [
+          0.42,
+          0.44,
+          0.47
+        ],
+        "legend_rgb": [
+          0.96,
+          0.96,
+          0.96
+        ],
+        "cad_geometry_unchanged": true
+      },
+      {
+        "reference": "SW61",
+        "filename": "DSA-1u-SW61.step",
+        "body_rgb": [
+          0.42,
+          0.44,
+          0.47
+        ],
+        "legend_rgb": [
+          0.96,
+          0.96,
+          0.96
+        ],
+        "cad_geometry_unchanged": true
+      },
+      {
+        "reference": "SW63",
+        "filename": "DSA-1u-SW63.step",
+        "body_rgb": [
+          0.95,
+          0.95,
+          0.95
+        ],
+        "legend_rgb": [
+          0.025,
+          0.03,
+          0.035
+        ],
+        "cad_geometry_unchanged": true,
+        "symbol": "\u2191",
+        "label_lines": [
+          "\u2191"
+        ]
+      },
+      {
+        "reference": "SW64",
+        "filename": "DSA-1u-SW64.step",
+        "body_rgb": [
+          0.42,
+          0.44,
+          0.47
+        ],
+        "legend_rgb": [
+          0.96,
+          0.96,
+          0.96
+        ],
+        "cad_geometry_unchanged": true
+      },
+      {
+        "reference": "SW65",
+        "filename": "DSA-1u-SW65.step",
+        "body_rgb": [
+          0.42,
+          0.44,
+          0.47
+        ],
+        "legend_rgb": [
+          0.96,
+          0.96,
+          0.96
+        ],
+        "cad_geometry_unchanged": true
+      },
+      {
+        "reference": "SW66",
+        "filename": "DSA-1u-SW66.wrl",
+        "body_rgb": [
+          0.32,
+          0.58,
+          0.76
+        ],
+        "legend_rgb": [
+          0.96,
+          0.96,
+          0.96
+        ],
+        "cad_geometry_unchanged": true,
+        "step_filename": "DSA-1u-SW66.step",
+        "viewport_finish": "matte: shininess 0, specular .02"
+      },
+      {
+        "reference": "SW67",
+        "filename": "DSA-1u-SW67.wrl",
+        "body_rgb": [
+          0.32,
+          0.58,
+          0.76
+        ],
+        "legend_rgb": [
+          0.96,
+          0.96,
+          0.96
+        ],
+        "cad_geometry_unchanged": true,
+        "step_filename": "DSA-1u-SW67.step",
+        "viewport_finish": "matte: shininess 0, specular .02"
+      },
+      {
+        "reference": "SW68",
+        "filename": "DSA-1u-SW68.wrl",
+        "body_rgb": [
+          0.32,
+          0.58,
+          0.76
+        ],
+        "legend_rgb": [
+          0.96,
+          0.96,
+          0.96
+        ],
+        "cad_geometry_unchanged": true,
+        "step_filename": "DSA-1u-SW68.step",
+        "viewport_finish": "matte: shininess 0, specular .02"
+      },
+      {
+        "reference": "SW72",
+        "filename": "DSA-1u-SW72.wrl",
+        "body_rgb": [
+          0.32,
+          0.58,
+          0.76
+        ],
+        "legend_rgb": [
+          0.96,
+          0.96,
+          0.96
+        ],
+        "cad_geometry_unchanged": true,
+        "step_filename": "DSA-1u-SW72.step",
+        "viewport_finish": "matte: shininess 0, specular .02"
+      },
+      {
+        "reference": "SW73",
+        "filename": "DSA-1u-SW73.wrl",
+        "body_rgb": [
+          0.32,
+          0.58,
+          0.76
+        ],
+        "legend_rgb": [
+          0.96,
+          0.96,
+          0.96
+        ],
+        "cad_geometry_unchanged": true,
+        "step_filename": "DSA-1u-SW73.step",
+        "viewport_finish": "matte: shininess 0, specular .02"
+      },
+      {
+        "reference": "SW74",
+        "filename": "DSA-1u-SW74.wrl",
+        "body_rgb": [
+          0.32,
+          0.58,
+          0.76
+        ],
+        "legend_rgb": [
+          0.96,
+          0.96,
+          0.96
+        ],
+        "cad_geometry_unchanged": true,
+        "step_filename": "DSA-1u-SW74.step",
+        "viewport_finish": "matte: shininess 0, specular .02"
+      },
+      {
+        "reference": "SW75",
+        "filename": "DSA-1u-SW75.step",
+        "body_rgb": [
+          0.95,
+          0.95,
+          0.95
+        ],
+        "legend_rgb": [
+          0.025,
+          0.03,
+          0.035
+        ],
+        "cad_geometry_unchanged": true,
+        "symbol": "\u2190",
+        "label_lines": [
+          "\u2190"
+        ]
+      },
+      {
+        "reference": "SW76",
+        "filename": "DSA-1u-SW76.step",
+        "body_rgb": [
+          0.95,
+          0.95,
+          0.95
+        ],
+        "legend_rgb": [
+          0.025,
+          0.03,
+          0.035
+        ],
+        "cad_geometry_unchanged": true,
+        "symbol": "\u2193",
+        "label_lines": [
+          "\u2193"
+        ]
+      },
+      {
+        "reference": "SW77",
+        "filename": "DSA-1u-SW77.step",
+        "body_rgb": [
+          0.95,
+          0.95,
+          0.95
+        ],
+        "legend_rgb": [
+          0.025,
+          0.03,
+          0.035
+        ],
+        "cad_geometry_unchanged": true,
+        "symbol": "\u2192",
+        "label_lines": [
+          "\u2192"
+        ]
+      },
+      {
+        "reference": "SW78",
+        "filename": "DSA-1u-SW78.step",
+        "body_rgb": [
+          0.42,
+          0.44,
+          0.47
+        ],
+        "legend_rgb": [
+          0.96,
+          0.96,
+          0.96
+        ],
+        "cad_geometry_unchanged": true
+      }
+    ],
+    "red_wide": [
+      {
+        "reference": "SW14",
+        "width_u": 1.25,
+        "label_lines": [
+          "Backspace"
+        ],
+        "filename": "DSA-1.25u-SW14.step",
+        "body_rgb": [
+          0.72,
+          0.045,
+          0.035
+        ],
+        "legend_rgb": [
+          0.96,
+          0.96,
+          0.96
+        ],
+        "valid_step": true,
+        "bbox_canonical_mm": [
+          -11.475004020804967,
+          11.475000099999999,
+          -9.100103254479965,
+          9.100038003888093,
+          -1.0000000031086244e-07,
+          7.9086792575067495
+        ],
+        "seconds": 7.54
+      },
+      {
+        "reference": "SW18",
+        "width_u": 1.5,
+        "label_lines": [
+          "Tab"
+        ],
+        "filename": "DSA-1.5u-SW18.step",
+        "body_rgb": [
+          0.72,
+          0.045,
+          0.035
+        ],
+        "legend_rgb": [
+          0.96,
+          0.96,
+          0.96
+        ],
+        "valid_step": true,
+        "bbox_canonical_mm": [
+          -13.85000923304455,
+          13.850000099999999,
+          -9.100103268623934,
+          9.100038067347826,
+          -1.0000000031086244e-07,
+          7.9086786152802935
+        ],
+        "seconds": 2.79
+      },
+      {
+        "reference": "SW35",
+        "width_u": 1.75,
+        "label_lines": [
+          "Caps Lock"
+        ],
+        "filename": "DSA-1.75u-SW35.step",
+        "body_rgb": [
+          0.72,
+          0.045,
+          0.035
+        ],
+        "legend_rgb": [
+          0.96,
+          0.96,
+          0.96
+        ],
+        "valid_step": true,
+        "bbox_canonical_mm": [
+          -16.22500808979269,
+          16.225000100000003,
+          -9.100103181899721,
+          9.100037884738793,
+          -1.0000000031086244e-07,
+          7.908654850170475
+        ],
+        "seconds": 3.4
+      },
+      {
+        "reference": "SW47",
+        "width_u": 1.75,
+        "label_lines": [
+          "Enter"
+        ],
+        "filename": "DSA-1.75u-SW47.step",
+        "body_rgb": [
+          0.72,
+          0.045,
+          0.035
+        ],
+        "legend_rgb": [
+          0.96,
+          0.96,
+          0.96
+        ],
+        "valid_step": true,
+        "bbox_canonical_mm": [
+          -16.22500808979269,
+          16.225000100000003,
+          -9.100103181899721,
+          9.100037884738793,
+          -1.0000000031086244e-07,
+          7.908654850170475
+        ],
+        "seconds": 2.33
+      },
+      {
+        "reference": "SW51",
+        "width_u": 2.25,
+        "label_lines": [
+          "Shift"
+        ],
+        "filename": "DSA-2.25u-SW51.step",
+        "body_rgb": [
+          0.72,
+          0.045,
+          0.035
+        ],
+        "legend_rgb": [
+          0.96,
+          0.96,
+          0.96
+        ],
+        "valid_step": true,
+        "bbox_canonical_mm": [
+          -20.975008104305918,
+          20.975051158535845,
+          -9.100113358799085,
+          9.100000329908072,
+          -1.0000000031086244e-07,
+          7.9086713960173025
+        ],
+        "seconds": 2.89
+      },
+      {
+        "reference": "SW62",
+        "width_u": 2.25,
+        "label_lines": [
+          "Shift"
+        ],
+        "filename": "DSA-2.25u-SW62.step",
+        "body_rgb": [
+          0.72,
+          0.045,
+          0.035
+        ],
+        "legend_rgb": [
+          0.96,
+          0.96,
+          0.96
+        ],
+        "valid_step": true,
+        "bbox_canonical_mm": [
+          -20.975008104305918,
+          20.975051158535845,
+          -9.100113358799085,
+          9.100000329908072,
+          -1.0000000031086244e-07,
+          7.9086713960173025
+        ],
+        "seconds": 2.9
+      },
+      {
+        "reference": "SW69",
+        "width_u": 1.25,
+        "label_lines": [
+          "Command"
+        ],
+        "filename": "DSA-1.25u-SW69.wrl",
+        "body_rgb": [
+          0.32,
+          0.58,
+          0.76
+        ],
+        "legend_rgb": [
+          0.96,
+          0.96,
+          0.96
+        ],
+        "valid_step": true,
+        "bbox_canonical_mm": [
+          -11.475004020804967,
+          11.475000099999999,
+          -9.100103254479965,
+          9.100038003888093,
+          -1.0000000031086244e-07,
+          7.9086792575067495
+        ],
+        "seconds": 5.58,
+        "step_filename": "DSA-1.25u-SW69.step",
+        "viewport_finish": "matte: shininess 0, specular .02"
+      },
+      {
+        "reference": "SW70",
+        "width_u": 5,
+        "label_lines": [],
+        "filename": "DSA-5u-SW70.wrl",
+        "body_rgb": [
+          0.32,
+          0.58,
+          0.76
+        ],
+        "legend_rgb": null,
+        "valid_step": true,
+        "bbox_canonical_mm": [
+          -47.1469591725102,
+          47.1469591725102,
+          -9.021959172510194,
+          9.021959172510195,
+          -1.0000000031086244e-07,
+          7.795929735518719
+        ],
+        "seconds": 0.44,
+        "step_filename": "DSA-5u-SW70.step",
+        "viewport_finish": "matte: shininess 0, specular .02"
+      },
+      {
+        "reference": "SW71",
+        "width_u": 1.25,
+        "label_lines": [
+          "Command"
+        ],
+        "filename": "DSA-1.25u-SW71.wrl",
+        "body_rgb": [
+          0.32,
+          0.58,
+          0.76
+        ],
+        "legend_rgb": [
+          0.96,
+          0.96,
+          0.96
+        ],
+        "valid_step": true,
+        "bbox_canonical_mm": [
+          -11.475004020804967,
+          11.475000099999999,
+          -9.100103254479965,
+          9.100038003888093,
+          -1.0000000031086244e-07,
+          7.9086792575067495
+        ],
+        "seconds": 5.33,
+        "step_filename": "DSA-1.25u-SW71.step",
+        "viewport_finish": "matte: shininess 0, specular .02"
+      }
+    ]
+  },
+  "dial": {
+    "step_file": "/Users/playnmaker123/Documents/Codex/2026-10-19/how/outputs/keyboard-colored-2026-10-23/Black-dial.step",
+    "valid_step": true,
+    "solid_count": 1,
+    "volume_mm3": 3135.9542333722716,
+    "diameter_mm": 18.0,
+    "height_mm": 14.400000000000002,
+    "flutes": 24,
+    "black_rgb": [
+      0.02,
+      0.02,
+      0.025
+    ],
+    "shaft_nominal_diameter_mm": 6,
+    "socket_diameter_mm": 6.3,
+    "socket_flat_y_from_center_mm": -1.65,
+    "socket_ceiling_above_PCB_front_mm": 26.9,
+    "shaft_tip_above_PCB_front_mm": 26.6,
+    "bottom_to_bushing_top_clearance_mm": 1.1999999999999993,
+    "bottom_above_PCB_front_mm": 14.7,
+    "top_above_PCB_front_mm": 29.1,
+    "center_in_footprint_model_coordinates_mm": [
+      7.55,
+      -2.45
+    ],
+    "kicad_model_transform": {
+      "offset_mm": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "rotate_degrees": [
+        0,
+        0,
+        0
+      ]
+    },
+    "footprint_SW1_at_board_xy_mm": [
+      52.0688,
+      42.5
+    ],
+    "model_bbox_in_footprint_coordinates_mm": [
+      -1.4500000000000002,
+      16.55,
+      -11.45,
+      6.55,
+      14.7,
+      29.1
+    ],
+    "board_xy_bbox_mm": [
+      50.6188,
+      68.6188,
+      35.95,
+      53.95
+    ],
+    "global_bbox_if_PCB_front_is_z_1_6_mm": [
+      50.6188,
+      68.6188,
+      35.95,
+      53.95,
+      16.3,
+      30.700000000000003
+    ],
+    "encoder_intersection_volume_mm3": 0.0,
+    "encoder_intersection_if_pressed_0_5mm_mm3": 0.0,
+    "limitations": [
+      "Visual mechanical reference; measure actual encoder shaft and print a test socket before manufacturing.",
+      "Black STEP includes color; model coordinates already include local encoder center, use zero KiCad offset/rotation.",
+      "Knob follows existing 20 mm tall encoder STEP; actual purchased encoder shaft length may differ.",
+      "0.5 mm depressed collision check is geometric only, not a verified encoder travel rating."
+    ]
+  },
+  "base_model_repository": "https://github.com/anhthang/dsa-keycap",
+  "sky_blue_bottom_row_count": 9,
+  "white_arrow_count": 4,
+  "legend_style": "White text; dark geometric arrows on white arrow keys",
+  "blue_finish": "Muted matte sky blue in KiCad VRML; matching STEP files retain geometry and colors for Fusion export"
+}
