@@ -24,6 +24,6 @@ RP Pico mounted on headers to save space
 Most of the keycaps' STEP files were from this repo: \
 https://github.com/anhthang/dsa-keycap \
 For the custom length keycaps like enter, I would split a 1x1 keycap in half and extrude the ends together to meet the new length. \
-I decided to make the spacebar myself because the custom length keycaps looked worse as they got longer.
+I decided to make the spacebar myself because the custom length keycaps looked worse as they got longer. I didn't realize the repo had a spacebar until after I was done.
 
 ![](https://fabricate.hackclub-assets.com/79b0b32347509cdd652443e38197e853ed22afcde2e032d9cd06023a662b156f/image-png/image.png)
