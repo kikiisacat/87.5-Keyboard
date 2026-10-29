@@ -21,7 +21,7 @@ RP Pico mounted on headers to save space
 
 # Final Assembly
 
-All of the switches' STEP files were from this repo.
+All of the switches' STEP files were from this repo:
 https://github.com/anhthang/dsa-keycap
 For the custom length switches like the spacebar, I would split a 1x1 switch in half and extrude the ends together to meet the new length.
 
