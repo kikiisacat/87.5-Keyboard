@@ -5,12 +5,12 @@ I made a custom RP-Pico keyboard with the arrow keys integrated in the number pa
 ![](https://fabricate.hackclub-assets.com/abedb2a76a35715dbbfc63932f288aa27f5d4945663a3e71d6aaca096674fcd7/image-png/Screenshot%202026-10-20%20at%204.47.11%E2%80%AFPM.png)
 
 # Features
-77 switches + a rotary encoder push button
-Hold FN and press 1-0, -, = for F1-F12
-New FN lock and Macro lock keys for ease of use
-24 macro slots in firmware
-LED indicators for FN lock, Caps lock, and Macro lock.
-QMK firmware
+77 switches + a rotary encoder push button \
+Hold FN and press 1-0, -, = for F1-F12 \
+New FN lock and Macro lock keys for ease of use \
+24 macro slots in firmware \
+LED indicators for FN lock, Caps lock, and Macro lock. \
+QMK firmware \
 RP Pico mounted on headers to save space
 
 # Schematic wiring & PCB
@@ -21,8 +21,8 @@ RP Pico mounted on headers to save space
 
 # Final Assembly
 
-All of the switches' STEP files were from this repo:
-https://github.com/anhthang/dsa-keycap
+All of the switches' STEP files were from this repo: \
+https://github.com/anhthang/dsa-keycap \
 For the custom length switches like the spacebar, I would split a 1x1 switch in half and extrude the ends together to meet the new length.
 
 ![](https://fabricate.hackclub-assets.com/79b0b32347509cdd652443e38197e853ed22afcde2e032d9cd06023a662b156f/image-png/image.png)
