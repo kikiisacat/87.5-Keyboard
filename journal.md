@@ -3,7 +3,7 @@ title: "The 87.5% Keyboard"
 github: "https://github.com/kikiisacat/87.5-Keyboard"
 description: "A 85% Keyboard, except it has a number pad like a 90% one. The FN keys have been removed (Like a 60% keyboard)  to save space, and are replaced with holding FN + 1,2,3,4,5,6,7,8,9,0,-,= to get FN 1-12.\nI decided to build this keyboard, as it is compact for my workspace, looks cleaner than a 90% keyboard, and has all keys I need and all keys I don't need removed or remapped."
 created_at: "2026-10-20"
-total_time: "17h 12m"
+total_time: "17h 24m"
 ---
 
 # October 20, 2026: Planning and Parts Finding
@@ -93,5 +93,16 @@ Last revision, I forgot to upload any of the CAD files before resubmitting. I pu
 
 ![](https://fabricate.hackclub-assets.com/7c2fbc98acfdeca7ca508346af189f9b158fbe38adb238272bac5547c3921659/image-png/image.png)
 ![](https://fabricate.hackclub-assets.com/058456cf3d51b6070bc627ebdcc889c9b5683e5f281487187caf0337525793b0/image-png/image.png)
+
+**Total time spent: 12m**
+
+# November 3, 2026 (entry 2): Updated the Files
+<!-- fabricate:entry 2132 -->
+
+I added the M3 heatset insert holes in this revision. I have 4mm, 5mm, and 6mm height inserts, but in the fusion I made the height 5mm. The radius is 3.9mm.
+
+![](https://fabricate.hackclub-assets.com/67774d0a0d07a265be9397e843069f48c29470641676a56e501ea7966a43b35e/image-png/image.png)
+
+![](https://fabricate.hackclub-assets.com/285e3c7da391a9a97f4294777617e6e308af9db3005ebc66b19dc5da1862ca53/image-png/image.png)
 
 **Total time spent: 12m**
