@@ -3,7 +3,7 @@ title: "The 87.5% Keyboard"
 github: "https://github.com/kikiisacat/87.5-Keyboard"
 description: "A 85% Keyboard, except it has a number pad like a 90% one. The FN keys have been removed (Like a 60% keyboard)  to save space, and are replaced with holding FN + 1,2,3,4,5,6,7,8,9,0,-,= to get FN 1-12.\nI decided to build this keyboard, as it is compact for my workspace, looks cleaner than a 90% keyboard, and has all keys I need and all keys I don't need removed or remapped."
 created_at: "2026-10-20"
-total_time: "17h"
+total_time: "17h 12m"
 ---
 
 # October 20, 2026: Planning and Parts Finding
@@ -85,3 +85,13 @@ Also all the keycaps I used were from https://github.com/anhthang/dsa-keycap, an
 ![](https://fabricate.hackclub-assets.com/2d724b3dd9a55d84fe23fe24cddb7bd0d68c32d29a2c788657d84cbef2947681/image-png/image.png)
 
 **Total time spent: 1h 30m**
+
+# November 3, 2026: Updated the Files
+<!-- fabricate:entry 2116 -->
+
+Last revision, I forgot to upload any of the CAD files before resubmitting. I put them back in the github this time and the project should be good to go now.
+
+![](https://fabricate.hackclub-assets.com/7c2fbc98acfdeca7ca508346af189f9b158fbe38adb238272bac5547c3921659/image-png/image.png)
+![](https://fabricate.hackclub-assets.com/058456cf3d51b6070bc627ebdcc889c9b5683e5f281487187caf0337525793b0/image-png/image.png)
+
+**Total time spent: 12m**
