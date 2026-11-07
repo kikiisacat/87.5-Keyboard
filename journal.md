@@ -101,6 +101,8 @@ Last revision, I forgot to upload any of the CAD files before resubmitting. I pu
 
 I added the M3 heatset insert holes in this revision. I have 4mm, 5mm, and 6mm height inserts, but in the fusion I made the height 5mm. The radius is 3.9mm.
 
+I discovered shipping from the previous switch supplier was 24 dollars and more than the switches themselves so now I'm sourcing them from amazon. Also I switched to the brown tactile switches instead of the yellow linear ones since they have a better "press texture."
+
 ![](https://fabricate.hackclub-assets.com/67774d0a0d07a265be9397e843069f48c29470641676a56e501ea7966a43b35e/image-png/image.png)
 
 ![](https://fabricate.hackclub-assets.com/285e3c7da391a9a97f4294777617e6e308af9db3005ebc66b19dc5da1862ca53/image-png/image.png)
